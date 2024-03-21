@@ -7,15 +7,10 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 import javafx.util.Duration;
-import java.util.concurrent.TimeUnit;
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
-import javafx.fxml.FXML;
-import javafx.geometry.Rectangle2D;
 import javafx.scene.Scene;
-import javafx.scene.control.TableView;
 import javafx.scene.image.Image;
-import javafx.stage.Screen;
 
 /**
  * JavaFX App
