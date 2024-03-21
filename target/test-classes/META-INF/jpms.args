@@ -1,0 +1,4 @@
+--patch-module
+com.myn.weaklyscheduler=_
+--add-reads
+com.myn.weaklyscheduler=ALL-UNNAMED
